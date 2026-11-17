@@ -4,7 +4,7 @@ Preview of Clean FireStick OS with Custom Launcher
 
 
 
-Prompt for Android/Google/Firestick model
+Prompt for Android/Google/Firestick model to install cleanOS
 I want to fully debloat and optimize my Android/Google/Firestick model using https://github.com/Gathin23/cleanyourtv.
 My local IP address is: 192.x.x.x Please execute the following step-by-step:
 1. **Connect & Identify:**
