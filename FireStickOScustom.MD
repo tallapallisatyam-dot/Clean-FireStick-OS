@@ -1,4 +1,7 @@
 Preview of Clean FireStick OS with Custom Launcher
+ ![Image Alt](https://github.com/tallapallisatyam-dot/Clean-FireStick-OS/blob/main/Screenshot_20261117_221910.png?raw=true)
+
+
 
 
 Prompt for Android/Google/Firestick model
